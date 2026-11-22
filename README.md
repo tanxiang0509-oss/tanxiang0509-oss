@@ -1,2 +1,9 @@
-# tanxiang0509-oss
-my-first-repo
+# 你好，我是 tanxiang0509-oss 👋
+
+🎓 在读大学生  
+🌱 正在探索 GitHub、编程与各种有趣的开源项目  
+📚 目标：学会用代码和开源工具提升学习效率
+
+## 我目前在学
+- Git & GitHub 协作
+- 英语词汇积累
